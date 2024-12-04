@@ -4,7 +4,7 @@
 var ala = 1;
 ```
 
--[] Arrumar minha rotina
--[] Ir na academia
--[] Estudar visão computacional
--[x] Jantar
+- [ ] Arrumar minha rotina
+- [ ] Ir na academia
+- [ ] Estudar visão computacional
+- [x] Jantar
